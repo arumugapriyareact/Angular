@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-@NgModule({
+@NgModule({/* the Ngmodule is a decorator that is provided by angular currently it has 4 decorations */
   declarations: [
     AppComponent
   ],
