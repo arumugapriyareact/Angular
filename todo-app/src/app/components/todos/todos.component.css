@@ -1,0 +1,9 @@
+.completedTodo{
+    color:darkgray;
+    text-decoration: line-through;
+   
+}
+.todo{
+    font-size: 12px;
+    
+}
