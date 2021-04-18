@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "react30-6380e": {
+      "hosting": {
+        "github-login-firebase": [
+          "react30-6380e"
+        ]
+      }
+    }
+  }
+}
